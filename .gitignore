@@ -1,0 +1,6 @@
+
+# 置換処理で生成される一時ファイル
+github-copilot/created
+
+# Python関連
+.venv/
